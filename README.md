@@ -74,15 +74,6 @@ Quase 3 em cada 4 avaliações estão nos extremos: os usuários ou aprovam ou r
 - [ ] TF-IDF
 - [ ] Análise de sentimentos com BERTimbau (BERT em português)
 
-## Como reproduzir
-
-Abra o notebook no Colab pelo botão acima e execute todas as células. As bibliotecas estão em `requirements.txt`.
-
-## Ferramentas
-
-Python, pandas, spaCy, NLTK, Unidecode, WordCloud, Matplotlib e Google Colab.
-Desenvolvido com apoio de IA (Claude) na estruturação e revisão do código.
-
 ---
 
 **Lucas Soares** · Gestão da Informação (UFG)
